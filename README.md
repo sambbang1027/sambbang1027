@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Sammy Seo. Welcome to my playground!!~!!
 
 <!--
 **sambbang1027/sambbang1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
