@@ -1,6 +1,6 @@
 <!--header-->
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=fad48d&fontColor=fa782d&height=200&section=header&text=Welcome+to+Sammy's+playground&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=fad48d&fontColor=fa782d&height=100&section=header&text=Welcome+to+Sammy's+playground&fontSize=40"/>
 
 <!--contact-->
 <p>
